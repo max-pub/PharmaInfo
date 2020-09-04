@@ -20,6 +20,8 @@ to update dependencies
 compares web-results with templates in "test"-folder    
 should all pass
 
+## Documentation
+http://git.max.pub/PharmaInfo/doc/api/
 
 ## Result
 ```json
