@@ -18,21 +18,21 @@ void startServer(InternetAddress host, int port) {
   HttpServer.bind(host, port).then((_server) {
     print("LISTENING ON ${host.address}:$port");
     _server.listen((HttpRequest request) {
-      print(request);
+      // print(request);
       handleGetRequest(request);
-    }, onError: handleError); // listen() failed.
+    }, onError: handleError);
   }).catchError(handleError);
 }
 
 void handleGetRequest(HttpRequest request) async {
-  print(request);
+  // print(request);
   HttpResponse response = request.response;
   response.headers.set("Content-Type", "application/json");
   List<String> path = request.uri.path
       .split('/')
       .where((element) => element.length > 0)
       .toList();
-  print(path);
+  // print(path);
   // response.write('Received request ${request.method}: ${request.uri.path}');
   // response.write('{"a":1}');
   // response.write(respondJSON());

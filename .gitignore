@@ -4,3 +4,4 @@ pubspec.lock
 doc2
 .DS_STORE
 .packages
+cache

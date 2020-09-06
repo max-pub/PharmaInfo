@@ -5,7 +5,7 @@ class Pharmacon {
   /// International nonproprietary name
   ///
   /// https://en.wikipedia.org/wiki/International_nonproprietary_name
-  String INN;
+  String INN = "";
 
   /// Multiple Trade Names per active ingredient
   List<String> tradeNames;
@@ -28,10 +28,10 @@ class Pharmacon {
   /// auxilliary function for internal jsonEncoder
   Map toJson() => {
         'INN': INN,
-        'tradeNames': tradeNames ?? [],
-        'ATC': ATC,
-        'CAS': CAS,
-        'formula': formula
+        if (tradeNames != null) 'tradeNames': tradeNames ?? [],
+        if (ATC != null) 'ATC': ATC,
+        if (CAS != null) 'CAS': CAS,
+        if (formula != null) 'formula': formula
       };
 
   /// returns a pretty printed JSON
