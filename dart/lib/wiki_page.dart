@@ -13,25 +13,25 @@ class WikiPage {
   List<String> get ATC => document
       .querySelector(
           'a[href="/wiki/Anatomisch-Therapeutisch-Chemisches_Klassifikationssystem"]')
-      .parent
-      .nextElementSibling
-      .querySelectorAll('p')
-      .map((e) => e.text.trim())
-      .toList();
+      ?.parent
+      ?.nextElementSibling
+      ?.querySelectorAll('p')
+      ?.map((e) => e.text.trim())
+      ?.toList();
 
   List<String> get CAS => document
       .querySelector('a[href="/wiki/CAS-Nummer"]')
-      .parent
-      .nextElementSibling
-      .querySelectorAll('li')
-      .map((e) => e.text.split(' ')[0].trim())
+      ?.parent
+      ?.nextElementSibling
+      ?.querySelectorAll('li')
+      ?.map((e) => e.text.split(' ')[0].trim())
       // .map((e) => e.text.trim())
-      .toList();
+      ?.toList();
 
   String get formula => document
       .querySelector('a[href="/wiki/Summenformel"]')
-      .parent
-      .nextElementSibling
-      .text
+      ?.parent
+      ?.nextElementSibling
+      ?.text
       ?.trim();
 }

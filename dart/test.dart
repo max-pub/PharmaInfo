@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 import 'dart:io';
-import 'lib/wiki_load.dart';
+import 'lib/io.dart';
 import 'lib/pharmacon.dart';
 import 'dart:convert';
 

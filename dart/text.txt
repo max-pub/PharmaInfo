@@ -1,0 +1,102 @@
+{{Infobox Chemikalie
+| Strukturformel  = [[Datei:Pantoprazole Enantiomers Strutural Formulae.png|300px|Pantoprazol-Enantiomere]]
+| Strukturhinweis = (''R'')-Form (oben) und (''S'')-Form (unten)
+| Suchfunktion    = C16H15F2N3O4S
+| Freiname        = Pantoprazol
+| Andere Namen    = * (''RS'')-5-(Difluormethoxy)-2-[(3,4-dimethoxy-2-pyridyl)methylsulfinyl]benzimidazol <small>([[International Union of Pure and Applied Chemistry|IUPAC]])</small>
+* (±)-5-(Difluormethoxy)-2-[(3,4-dimethoxy-2-pyridyl)methylsulfinyl]benzimidazol
+| Summenformel    = * C<sub>16</sub>H<sub>15</sub>F<sub>2</sub>N<sub>3</sub>O<sub>4</sub>S <small>(Pantoprazol)</small>
+* C<sub>16</sub>H<sub>14</sub>F<sub>2</sub>N<sub>3</sub>NaO<sub>4</sub>S <small>(Pantoprazol·[[Natriumsalz]])</small>
+| CAS             = * 102625-70-7 <small>(Pantoprazol)</small>
+* 138786-67-1 <small>(Pantoprazol·Natriumsalz)</small>
+* 164579-32-2 <small>(Pantoprazol·Natrium·Sesquihydrat)</small>
+| EG-Nummer       = 600-331-6
+| ECHA-ID         = 100.111.005
+| PubChem         = 4679
+| ChemSpider      = 4517
+| ATC-Code        = {{ATC|A02|BC02}}
+| DrugBank        = DB00213
+| Wirkstoffgruppe = [[Protonenpumpenhemmer]] Ulkustherapeutikum
+| Wirkmechanismus = [[Inhibitor]] der [[Protonen-Kalium-Pumpe]]
+| Beschreibung    = farbloses kristallines Pulver <small>(Pantoprazol·Natriumsalz)</small><ref name="MerckIndex">''The [[Merck Index]]. An Encyclopaedia of Chemicals, Drugs and Biologicals.'' 14. Auflage. 2006, ISBN 0-911910-00-X, S.&nbsp;1209–1210.</ref>
+| Molare Masse    = * 383,37 [[Gramm|g]]·[[mol]]<sup>−1</sup> <small>(Pantoprazol)</small>
+* 405,35 [[Gramm|g]]·[[mol]]<sup>−1</sup> <small>(Pantoprazol·Natriumsalz)</small>
+| Aggregat        = fest
+| Dichte          = 
+| Schmelzpunkt    = 139–140 [[Grad Celsius|°C]] <small>(Pantoprazol)</small><ref name="RÖMPP Online">{{RömppOnline|Name=Pantoprazol |Datum=10. November 2014 |ID=RD-16-00214 }}</ref>
+| Siedepunkt      = 
+| Dampfdruck      = 
+| pKs             = 
+| Löslichkeit     = leicht löslich in [[Ethanol]], löslich in Wasser, schlecht in [[N-Hexan|''n''-Hexan]]<ref name="Ph. Eur.">{{EDQM|Y0000835|Name=PANTOPRAZOLE SODIUM SESQUIHYDRATE CRS|Datum=12. Juni 2009}}</ref>
+| Quelle GHS-Kz   = <ref name="Sigma">{{Sigma-Aldrich|SIGMA|P0021|Datum=22. Oktober 2016|Name=Pantoprazole sodium hydrate}}</ref>
+| GHS-Piktogramme = Natrium·Sesquihydrat<br />{{GHS-Piktogramme-klein|07}}
+| GHS-Signalwort  = Achtung
+| H               = {{H-Sätze|302}}
+| EUH             = {{EUH-Sätze|-}}
+| P               = {{P-Sätze|-}}
+| Quelle P        = <ref name="Sigma" />
+| MAK             = 
+| ToxDaten        = {{ToxDaten |Typ=LD50 |Organismus=Maus |Applikationsart=oral |Wert=1000 mg·kg<sup>−1</sup> |Bezeichnung=Natriumsalz |Quelle=<ref name="RÖMPP Online" /> }}
+}}
+
+'''Pantoprazol''' ist ein [[Arzneistoff]] aus der Gruppe der [[Protonenpumpenhemmer]], der zur Behandlung von [[Magengeschwür|Magen-]] und [[Ulcus duodeni|Zwölffingerdarmgeschwüren]] sowie bei [[Refluxösophagitis]] eingesetzt wird.
+
+== Wirkungsmechanismus ==
+Pantoprazol entfaltet seine Wirkung in den [[Parietalzelle]]n der Magenschleimhaut, wo es als irreversibler Hemmstoff der [[Protonen-Kalium-Pumpe|H<sup>+</sup>/K<sup>+</sup>-ATPase]] dient. Dadurch kommt es zu einer Verminderung der Salzsäureproduktion im [[Magen]], und der [[pH-Wert]] des [[Magensaft]]s steigt an. Dies führt zu weniger aggressivem Magensaft, was wiederum die beschleunigte [[Heilung]] von Magenwandverletzungen (bspw. Schleimhauterosionen oder Magengeschwüren) begünstigt.
+
+== Klinische Angaben ==
+=== Anwendungsgebiete ===
+* Behandlung und [[Krankheitsprävention|Prophylaxe]] peptischer [[Magengeschwür|Magen-]] und [[Ulcus duodeni|Zwölffingerdarmgeschwüre]]
+* [[Refluxösophagitis]]
+* [[Eradikation]] (Entfernung) von ''[[Helicobacter pylori]]'' (zusammen mit zwei geeigneten [[Antibiotikum|Antibiotika]])
+* [[Zollinger-Ellison-Syndrom]]
+
+=== Nebenwirkungen ===
+Wie die anderen [[Protonenpumpenhemmer]] auch gilt Pantoprazol als relativ sicher und ist weitgehend gut verträglich. Selten auftretende Nebenwirkungen sind Durchfälle, Schwindel, Müdigkeit und Kopfschmerzen.<ref>E. Schönig, D. Taubert: ''Gastrointestinale Erkrankungen.'' In: [[Björn Lemmer|B. Lemmer]], K. Brune (Hrsg.): ''Pharmakotherapie - Klinische Pharmakologie.'' 13. Auflage. Heidelberg 2007, S.&nbsp;325.</ref> Gelegentlich kann es auch zu Übelkeit und Erbrechen sowie zu Bauchschmerzen und allergischen Hautreaktionen kommen.<ref>[http://www.apotheken-umschau.de/Medikamente/Beipackzettel/PANTOPRAZOL-NYC-40MG-6400692.html Beipackzettel PANTOPRAZOL NYC 40MG], zuletzt gesehen am 3. Februar 2017.</ref> Im Vergleich zu [[Omeprazol]] wurde eine höhere Zahl von Patienten, bei denen Muskelschmerzen auftraten, beobachtet.<ref>J. Labenz, K. Petersen, W. Rösch, H. Koelz: ''Auswahl von Protonenpumpeninhibitoren.'' In: ''Deutsches Ärzteblatt.'' Jg. 99, Heft 37, 13. September 2002, S. 2425–2429.</ref>
+
+Sehr selten werden [[Thrombozytopenie]]n beobachtet.<ref>T. D. Watson, J. E. Stark, K. S. Vesta: ''Pantoprazole-induced thrombocytopenia.'' In: ''[[Ann Pharmacother]]''. 40(4), Apr 2006, S. 758–761. PMID 16569810.</ref> Inwiefern diese kausal durch das Medikament verursacht werden, ist bisher nicht belegt.<ref>E. Dotan, R. Katz, J. Bratcher, C. Wasserman, M. Liebman u. a.: ''The prevalence of pantoprozole associated thrombocytopenia in a community hospital.'' In: ''[[Expert Opin Pharmacother]]''. 8(13), Sep 2007, S. 2025–2028. PMID 17714057.</ref>
+
+2013 wurde in einer Studie festgestellt, dass bei einer Langzeitmedikation das Risiko eines [[Cobalamin|Vitamin-B<sub>12</sub>]]-Mangels deutlich ansteigt.<ref>Jameson R. Lam, Jennifer L. Schneider, Wei Zhao, Douglas A. Corley: ''Proton Pump Inhibitor and Histamine 2 Receptor Antagonist Use and Vitamin B12 Deficiency.'' In: ''[[Journal of the American Medical Association]].'' Vol 310, No. 22, 11. Dezember 2013. [[doi:10.1001/jama.2013.280490]]</ref>
+
+Nach einer Bonner Studie von 2016 haben ältere Menschen, die Pantoprazol oder Omeprazol über längere Zeit einnehmen, ein erhöhtes Demenzrisiko. "Ob ein kausaler Zusammenhang besteht oder ob es sich um eine zufällige statistische Signifikanz handelt, bleibt unklar. Der Verdacht auf eine ursächliche Beziehung bestehe in jedem Fall, so die Forscher. [ ] Die Wissenschaftler fordern prospektive klinische Studien, um die statistischen Ergebnisse ihrer Untersuchungen klinisch zu verifizieren."<ref>Gomm W, von Holt K, Thomé F, Broich K, Maier W, Fink A, Doblhammer G, Haenisch B: ''Association of Proton Pump Inhibitors With Risk of Dementia: A Pharmacoepidemiological Claims Data Analysis.'', JAMA Neurol. 2016 Apr;73(4):410-6, PMID 26882076</ref><ref name=":0">{{Literatur |Hrsg=Apotheke Adhoc |Titel=Demenz durch Omeprazol |Datum=2016-02-18 |Online=https://www.apotheke-adhoc.de/nachrichten/detail/pharmazie/protonenpumpenhemmer-demenz-durch-omeprazol-pantoprazol/ |Abruf=2017-10-09}}</ref> Ein weiterer Einwand betrifft die unterschiedlichen Patienteneigenschaften. "Die betroffenen Patienten hatten eine erhöhte Zahl von Begleiterkrankungen wie Depression, Schlaganfall und ischämische Herzerkrankung und sie nahmen häufiger weitere Medikamente ein. Eine Analyse der Women’s Health Initiative hat laut Kuller gezeigt, dass PPI-Anwenderinnen häufiger einen schlechten Gesundheitszustand haben und häufiger adipös sind."<ref>{{Internetquelle |autor=Deutscher Ärzteverlag GmbH, Redaktion Deutsches Ärzteblatt |url=https://www.aerzteblatt.de/nachrichten/65748/Erhoehen-Protonenpumpen-Inhibitoren-das-Demenzrisiko |titel=Erhöhen Protonenpumpen-Inhibitoren das Demenzrisiko? |datum=2016-02-16 |abruf=2020-02-13 |sprache=de}}</ref>
+
+Pantoprazol steht wie andere Protonenpumpenhemmer im Verdacht, die Entwicklung von [[Nahrungsmittelallergie]]n zu fördern.<ref>{{Literatur |Autor=Susanne C. Diesner, Isabella Pali-Schöll, Erika Jensen-Jarolim, Eva Untersmayr |Titel=Mechanismen und Risikofaktoren für Typ 1 Nahrungsmittelallergien: Die Rolle der gastrischen Verdauung |Sammelwerk=Wiener Medizinische Wochenschrift |Band=162 |Nummer=23 |Datum=2012-12-01 |Seiten=513–518 |DOI=10.1007/s10354-012-0154-4}}</ref>
+
+=== Wechselwirkungen ===
+Pantoprazol kann bei Urin-Schnelltests ein falsch-positives Ergebnis zu [[Tetrahydrocannabinol|THC]] verursachen.<ref>[http://labeling.pfizer.com/ShowLabeling.aspx?id=135#section-7.5 labeling.pfizer.com]</ref>
+
+== Stereochemie ==
+Pantoprazol besitzt ein [[Stereozentrum]] am Schwefelatom, es ist also [[Chiralität (Chemie)|chiral]]. Der Arzneistoff ist ein [[Racemat]], besteht also aus einem 1:1-Gemisch der (''R'')-Form und der dazu spiegelbildlichen (''S'')-Form.
+
+== Analytik ==
+Zur zuverlässigen qualitativen und quantitativen Bestimmung von Pantoprazol kommt nach hinreichender [[Probenvorbereitung]] die Kopplung der [[HPLC]] mit der [[Massenspektrometrie]] zur Anwendung.<ref>Jiao H, Li Y, Sun L, Zhang H, Yu L, Yu L, Yuan Z, Xie L, Chen J, Wang Y: ''A chiral LC-MS/MS method for the enantioselective determination of R-(+)- and S-(-)-pantoprazole in human plasma and its application to a pharmacokinetic study of S-(-)-pantoprazole sodium injection.'', Biomed Chromatogr. 2017 Oct;31(10),  PMID 28370240</ref><ref>Zhao P, Deng M, Huang P, Yu J, Guo X, Zhao L. ''Solid-phase extraction combined with dispersive liquid-liquid microextraction and chiral liquid chromatography-tandem mass spectrometry for the simultaneous enantioselective determination of representative proton-pump inhibitors in water samples.'', Anal Bioanal Chem. 2016 Sep;408(23):6381-92, PMID 27449644</ref><ref>Chen M, Xia Y, Ma Z, Li L, Zhong D, Chen X: ''Validation of a chiral liquid chromatography-tandem mass spectrometry method for the determination of pantoprazole in dog plasma.'', J Chromatogr B Analyt Technol Biomed Life Sci. 2012 Oct 1;906:85-90, PMID 22959824</ref>
+
+== Entwicklung und Vermarktung ==
+Pantoprazol wurde 1986 von [[Byk Gulden]] (heute [[Takeda Pharmaceutical|Takeda]]) patentiert.<ref name="RÖMPP Online" /> Im Jahr 2009 wurde es in Deutschland aus der Rezeptpflicht entlassen.<ref name=":0" />
+
+== Tiermedizin ==
+Bei Lebensmittel liefernden Tieren ist die Anwendung nicht erlaubt, da es in keinem Anhang zur [[Verordnung (EWG) Nr. 2377/90 über Höchstmengen für Tierarzneimittelrückstände in Nahrungsmitteln]] aufgeführt ist.
+
+== Handelsnamen ==
+; [[Monopräparat]]e
+Azidex (A), Azidosan (A), Gastroloc (A), Gastrozol (D, A), Panprabene (A), Panprax (CH), Pantip (A), Pantoloc (A), Pantozol (D, CH), Prazopant (A), Rifun (D), Zurcal (A, CH), Controloc (PL), zahlreiche Generika (D, A, CH), Protonix (USA)
+
+; [[Kombinationspräparat]]e
+Zacpac (D)<ref>Rote Liste online, Stand: Oktober 2009.</ref><ref>AM-Komp. d. Schweiz, Stand: Oktober 2009.</ref><ref>AGES-PharmMed, Stand: Oktober 2009.</ref>
+
+== Weblinks ==
+* [https://www.ema.europa.eu/en/search/search/field_ema_web_categories%253Aname_field/Human/ema_group_types/ema_medicine/search_api_aggregation_ema_active_substance_name/pantoprazole? Pantoprazol-Zulassungen auf der Website des Europäischen Arzneimittelagentur]
+
+== Einzelnachweise ==
+<references />
+
+{{Gesundheitshinweis}}
+
+[[Kategorie:Protonenpumpenhemmer]]
+[[Kategorie:Arzneistoff]]
+[[Kategorie:Fluoralkan]]
+[[Kategorie:Sulfoxid]]
+[[Kategorie:Pyridin]]
+[[Kategorie:Benzimidazol]]
+[[Kategorie:Alkylarylether]]
+[[Kategorie:Methoxyaromat]]
